@@ -5,7 +5,7 @@ public class example {
 	{
 		Scanner sc=new Scanner(System.in);
 		int i;
-	int[] a= {1,2,3,4,5,6,7,8};
+	int[] a= {1,2,3,4,5,6,7,8,9};
     int[] b= {a.length};
     b=a;
     for(i=0;i<a.length;i++)
